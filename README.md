@@ -17,4 +17,4 @@ These solutions cover topics from week 1-12 (labs 1-9) ranging from the followin
 * Filtering, Edge Detection, Segmentation
 * Mathetmatical Morphology, Morphological Image Processing, Region-based Segmentation, Connected Component Labelling
 
-* The Computer Graphics component of the course was tackled using C++ solutions, whereas the latter Image Processing portion contained Python problems and solutions.
+The Computer Graphics component of the course was tackled using C++ solutions, whereas the latter Image Processing portion contained Python problems and solutions.
